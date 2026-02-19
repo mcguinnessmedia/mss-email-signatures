@@ -1,6 +1,6 @@
 # Middletown Self Storage Email
 
-These are table-based email signatures for Middletown Self Storage.
+These are table-based email signatures for Middletown Self Storage. Previews available at [this link](https://mcguinnessmedia.github.io/mss-email-signatures/index.html).
 
 ## Contributing
 
